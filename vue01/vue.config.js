@@ -1,3 +1,4 @@
 module.exports = {
-  publicPath: '/vue01/'
+  publicPath: '/vue01/',
+  lintOnSave: false
 }
