@@ -29,6 +29,9 @@
             <el-menu-item index="4">
                <router-link to="/list/科技">科技</router-link>
             </el-menu-item>
+            <el-menu-item index="5">
+               <router-link to="/cart">cart</router-link>
+            </el-menu-item>
           </el-menu>
         </div>
       </el-header>
